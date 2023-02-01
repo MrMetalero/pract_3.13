@@ -1,0 +1,47 @@
+h1.titulo1{
+    text-align: center;
+
+}
+
+body.body1{
+    display: flexbox;
+
+}
+
+fieldset.fset1{
+    
+    display: flexbox;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 50px;
+    border-style:ridge;
+    border-radius: 3%;
+}
+
+
+label.label_fset1{
+font-weight: 800;
+font-size:larger;
+
+}
+
+p.p1{
+    font-weight: 10;
+
+}
+
+
+input.clase_largo{
+    width: 90%;
+
+
+}
+
+input.boton_entrar{
+    width: 90%;
+    background-color: rgb(255, 102, 0);
+    color: white;
+
+
+}
+
