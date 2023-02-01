@@ -45,3 +45,17 @@ input.boton_entrar{
 
 }
 
+
+
+fieldset.fset2{
+    
+    display: flexbox;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+    border-style:ridge;
+    border-radius: 3%;
+}
+
+
+
