@@ -61,8 +61,8 @@ fieldset.fset2{
 div.fset2_bloque1{
 
     display:inline
-    width: 100%;
-    margin: auto;
+    
+   
 
 
 }
@@ -73,7 +73,14 @@ select.fset2_bloque2_tipoDocumento{
 
 }
 
+input.boton3{
 
+width: 90%;
+    background-color: rgb(20, 211, 3);
+    color: white;
+
+
+}
 
 
 
